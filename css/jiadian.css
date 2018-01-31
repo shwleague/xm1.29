@@ -1,0 +1,230 @@
+/*
+* @Author: Administrator
+* @Date:   2017-12-26 18:08:59
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-12-27 08:46:17
+*/
+*
+{
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+.wai
+{
+	width: 1226px;
+	height: 679px;
+	background: red;
+margin: 0 auto;
+}
+.shang
+{
+	width: 1226px;
+	height: 65px;
+	background: #f5f5f5;
+}
+.zuo
+{
+	float: left;
+   width: 45px;
+   height: 20px;
+   margin-top: 22px;
+
+   font-size: 20px;
+	color: black;
+
+}
+.you
+{
+	float: right;
+	 margin-top: 22px;
+
+}
+.you a
+{
+	font-size: 15px;
+	color: black;
+	margin-right: 31px;
+}
+.you .jiaju
+{
+margin-right: 0;
+}
+.xia
+{
+	width: 1226px;
+	height: 614px;
+	background: #f5f5f5;
+}
+.xiazuo
+{
+	width: 234px;
+	height: 100%;
+	background: black;
+	float: left;
+}
+.zuotu
+{
+	width: 100%;
+	height: 100%;
+}
+.xiayou
+{
+	width: 976px;
+	height: 100%;
+	background: #f5f5f5;
+	float: right;
+	
+}
+.youlie
+{
+	width: 233px;
+	height: 300px;
+	background: #ffffff;
+	float: left;
+	margin-right: 14px;
+}
+.youliehou
+{
+	margin-right: 0;
+	width: 235px;
+}
+.youliexia
+{
+	margin-top:14px;
+	
+}
+.youliexiahou
+{
+	margin-right: 0;
+	width: 235px;
+	background: #f5f5f5;
+}
+.youlie .lietu
+{
+	display: block;
+	width: 150px;
+	height: 150px;
+	background: blue;
+	margin:14px auto 0; 
+
+}
+.zhe
+{
+	width: 64px;
+	height: 20px;
+	background: red;
+    margin:0 auto 0; 
+    font-size: 11px;
+    color: #ffffff;
+    text-align: center;
+}
+.zhe3
+{
+	background: #83c44e;
+}
+.zhe4
+{
+	background: #ffffff;
+}
+.youlie .biao
+{
+	font-size: 12px;
+	margin-top: 18px;
+	color: #333333;
+	text-align: center;
+	display: block;
+}
+.youlie .zier
+{
+	text-align: center;
+	font-size: 11px;
+	color: #b0b0b0;
+	margin-top: 3px;
+}
+.youlie .zisan
+{
+	margin-left: 69px;
+	font-size: 11px;
+	color: #ff6700;
+	margin-top: 14px;
+	display: inline-block;
+}
+.youlie .zisan2
+{
+	color: #b0b0b0;
+	display: inline-block;
+	text-decoration: line-through;
+	margin-left: 0;
+}
+.xiashang 
+{
+	width: 235px;
+	height: 143px;
+	background: #ffffff;
+	display: block;
+	
+}
+.xiaxia
+{
+	width: 235px;
+	height: 143px;
+	background: #ffffff;
+	display: block;
+	margin-top: 13px ;
+}
+.xiashangzi
+{
+	font-size: 12px;
+	float: left;
+	color: black;
+	width: 70px;
+	height: 38px;
+	margin-top: 44px;
+	margin-left: 30px;
+	display: block;
+	
+}
+.xiashang .zisi
+{
+	font-size: 11px;
+	color: #ff6700;
+	margin-top: 14px;
+	margin-left: 0;
+	
+}
+.xiashang .lietuhou
+{
+	float: right;
+	margin-right:34px;
+	display: block;
+	text-align: center;
+	margin-top: 30px
+}
+.xiaxia .xiaxiazi
+{
+	font-size: 12px;
+	float: left;
+	color: black;
+	width: 70px;
+	height: 38px;
+	margin-top: 44px;
+	margin-left: 30px;
+	
+}
+.xiaxia .zisi
+{
+	font-size: 11px;
+	color: #a075a0;
+	margin-top: 14px;
+	margin-left: 0;
+	
+}
+.xiaxia .lietuhou
+{
+	float: right;
+	margin-right:34px;
+	display: block;
+	text-align: center;
+	margin-top: 30px
+}
